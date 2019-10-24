@@ -1,5 +1,5 @@
 <html>
-<title> JELGAVAS TEHNIKUMS </title>
+<title> lööps </title>
 <body>
 <h1> Hello? </h1>
 <p><font color="red">Is anyone here?</font></p>
